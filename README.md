@@ -36,4 +36,4 @@ Atuei como **Quality Assurance (QA)** no projeto, sendo responsável por:
 
 ## Autor
 
-Desenvolvido por **Victor Overlevende** durante as atividades de QA no projeto **Automate**.
+Desenvolvido por **João Victor de Almeida** durante as atividades de QA no projeto **Automate**.
